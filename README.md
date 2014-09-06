@@ -1,6 +1,6 @@
 # Mini-exercise #
 
-This mini-exercise is worth 1% of your final grade.
+This mini-exercise is worth 1% of your final grade.   
 You can think of it as a "free mark for setting up your work environment".
 
 ## Step 1, due by Friday, Sep 12 at 7 p.m.  ##
@@ -10,8 +10,8 @@ You can think of it as a "free mark for setting up your work environment".
  2. We will need to match your GitHub username with your CDF username. In order to do that:
    * Open this shared document (**TODO:** Link to doc)
    * Enter your GitHub username next to you CDF username.   
-    Each line in the doc should be of the format *cdfUsername,gitHubUsername*   
-    If you can't find your CDF username in the doc, just add it at the end of the list.
+      * Each line in the doc should be of the format `cdfUsername,gitHubUsername`   
+      * If you can't find your CDF username in the doc, just add it at the end of the list.
 
 ## Step 2, due by Monday, Sep 15 at 1 p.m. ##
 
