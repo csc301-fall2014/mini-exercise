@@ -35,6 +35,6 @@ You task is to "change your mark" from `0` to `1`.
 
  1. Open you browser.
  2. Go to http://github.com, and log in (if you are not already logged in).
- 4 .Look at the content of `mini-exercise/mark.txt` in your personal repository. Is it `1`? Great job, you're done!
+ 3. Look at the content of `mini-exercise/mark.txt` in your personal repository. Is it `1`? Great job, you're done!
    
  
