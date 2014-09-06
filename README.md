@@ -13,14 +13,15 @@ You can think of it as a "free mark for setting up your work environment".
       * Each line in the doc should be of the format `cdfUsername,gitHubUsername`   
       * If you can't find your CDF username in the doc, just add it at the end of the list.
 
-## Step 2, due by Monday, Sep 15 at 1 p.m. ##
 
-After the deadline of step 1, we will create a *personal repository* on GitHub for each student (who completed step 1).
+After the due date for this step, your instructor will create a *personal repository* on GitHub for each student. You will use your personal repository to complete step 2 of this mini-exercise. Please note that:
+
  * Your personal repository is private, and is only accessible to you, the TA's and instructors of the course.
  * Your personal repository will have the same name as your CDF username.
  * You will use your personal repository throughout the term to submit your individual work.
 
-### Your Task ###
+
+## Step 2, due by Monday, Sep 15 at 1 p.m. ##
 
 Your personal repository contains a folder called `mini-exercise` containing a file called `mark.txt`.
 If you look at the content of this file, you will see that it simply contains the digit `0`.
