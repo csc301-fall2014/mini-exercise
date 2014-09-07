@@ -8,7 +8,7 @@ You can think of it as a "free mark for setting up your work environment".
  1. Sign up for a (free) GitHub account on http://github.com.   
    You will be using your GitHub account to submit most (if not all) of the work for this course.
  2. We will need to match your GitHub username with your CDF username. In order to do that:
-   * Open this shared document (**TODO:** Link to doc)
+   * Open this [shared document](https://docs.google.com/document/d/1cfMUq0NngeipZlkQKFZHZBXILL-s-dftio2MizPrJ_4/edit?usp=sharing).
    * Enter your GitHub username next to you CDF username.   
       * Each line in the doc should be of the format `cdfUsername,gitHubUsername`   
       * If you can't find your CDF username in the doc, just add it at the end of the list.
