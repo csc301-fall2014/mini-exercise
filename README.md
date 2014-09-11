@@ -4,22 +4,22 @@ This mini-exercise is worth 1% of your final grade.
 You can think of it as a "free mark for setting up your work environment".
 
 ## Step 1 ##
-### Due Friday, Sep 12, at 7 p.m.  ###
+### Due Tuesday, Sep 16, at 7 p.m.  ###
 
  1. Sign up for a (free) GitHub account on http://github.com.   
    You will be using your GitHub account to submit most (if not all) of the work for this course.
- 2. We will need to match your GitHub username with your CDF username. In order to do that:
-   * Open this [shared document](https://docs.google.com/document/d/1cfMUq0NngeipZlkQKFZHZBXILL-s-dftio2MizPrJ_4/edit?usp=sharing).
-   * Enter your GitHub username next to you CDF username.   
-      * Each line in the doc should be of the format `cdfUsername,gitHubUsername`   
-      * If you can't find your CDF username in the doc, just add it at the end of the list.
+ 2. We will need to match your GitHub username with your UTor ID. In order to do that:
+   * Open this [shared document](https://docs.google.com/document/d/1XAfUMFKuwmBgRZd0j2jXvnTvTB54FoHh9MeXs5ifIuc/edit?usp=sharing).
+      * Enter your UTor id and GitHub username in a single line, at the end of the doc.      
+      * Each line in the doc should be of the format `UTorID,gitHubUsername`
+      * __Important:__ Please use your UTor ID, __not__ your student number.
 
 
 After the due date for this step, your instructor will create a *personal repository* on GitHub for each student. You will use your personal repository to complete step 2 of this mini-exercise. 
 
 Please note that:
  * Your personal repository is private, and is only accessible to you, the TA's and instructors of the course.
- * Your personal repository will have the same name as your CDF username.
+ * Your personal repository will have the same name as your UTor id.
  * You will use your personal repository throughout the term to submit your individual work.
 
 
