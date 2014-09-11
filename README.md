@@ -24,7 +24,7 @@ Please note that:
 
 
 ## Step 2 ##
-### Due Monday, Sep 15, at 1 p.m. ###
+### Due Friday, Sep 19, at 10 a.m. ###
 
 Your personal repository contains a folder called `mini-exercise` containing a file called `mark.txt`.
 If you look at the content of this file, you will see that it simply contains the digit `0`.
