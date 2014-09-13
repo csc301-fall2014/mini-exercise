@@ -15,13 +15,12 @@ You can think of it as a "free mark for setting up your work environment".
       * If you can't find your CDF username in the doc, just add it at the end of the list.
 
 
-After the due date for this step, your instructor will create a *personal repository* on GitHub for each student. You will use your personal repository to complete step 2 of this mini-exercise. 
+**Your personal repositories have been created**
+ * Your personal repo is called *YOUR-CDF-USERNAME-personal-repo*
+ * The [CSC301 organization account](https://github.com/csc301-fall2014) contains a list of all repositories for CSC301, your personal repository should be on the list.
+ * Remember: Your personal repository is private, do **not** share this repository with other students.
 
-Please note that:
- * Your personal repository is private, and is only accessible to you, the TA's and instructors of the course.
- * Your personal repository will have the same name as your CDF username.
- * You will use your personal repository throughout the term to submit your individual work.
-
+If you are having trouble accessing your personal repository, please use the [discussion board](http://piazza.com/utoronto.ca/fall2014/csc301/) to let us know.
 
 ## Step 2 ##
 ### Due Monday, Sep 15, at 1 p.m. ###
