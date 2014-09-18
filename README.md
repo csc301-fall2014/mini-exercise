@@ -4,16 +4,14 @@ This mini-exercise is worth 1% of your final grade.
 You can think of it as a "free mark for setting up your work environment".
 
 ## Step 1 ##
-### TODO: Date  ###
+### Due Mon, Sep 15, at 8 p.m.  ###
 
  1. Sign up for a (free) GitHub account on http://github.com.   
    You will be using your GitHub account to submit most (if not all) of the work for this course.
  2. We will need to match your GitHub username with your CDF username. In order to do that:
-   * Open this **TODO: Link**.
+   * Open this ~~[shared document]()~~. **Due date passed, link is disabled**
    * Enter your GitHub username next to you CDF username.   
-      * Each line in the doc should be of the format `cdfUsername,gitHubUsername`   
       * If you can't find your CDF username in the doc, just add it at the end of the list.
-
 
 After the due date for this step, your instructor will create a *personal repository* on GitHub for each student. You will use your personal repository to complete step 2 of this mini-exercise. 
 
@@ -24,7 +22,7 @@ Please note that:
 
 
 ## Step 2 ##
-### TODO: Date ###
+### Due Mon, Sep 22, at 8 p.m. ###
 
 Your personal repository contains a folder called `mini-exercise` containing a file called `mark.txt`.
 If you look at the content of this file, you will see that it simply contains the digit `0`.
